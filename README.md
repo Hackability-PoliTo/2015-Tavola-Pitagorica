@@ -1,5 +1,7 @@
 # La Tavola Pitagorica di Gaia
 
+![tavola](img/TavolaAvanti.png)
+
 Nel corso del progetto di Hackability@Polito Ë stato creato questo prototipo di tavola pitagorica. La tavola si propone come strumento compensativo 
 a sostegno dellíapprendimento e nasce dalla necessit‡ di sostenere la funzionalit‡ visiva e líabilit‡ prassica di bambini che presentano disturbi 
 visuopercettivi e difficolt‡ specifica nei movimenti oculari fini nei primi anni dellíapprendimento.
